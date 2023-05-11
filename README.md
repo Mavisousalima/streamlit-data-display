@@ -1,1 +1,1 @@
-# for now, I just want a very simple script that helps me learn how to deploy scripts online that can receive data in very simple Python programming, and maybe is connected to a simple software package like streamlet to display the data.
+# Two simple scripts to collect and display data using Streamlit and MongoDB
